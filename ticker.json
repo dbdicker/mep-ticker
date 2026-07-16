@@ -1,54 +1,63 @@
 {
-  "updated_at": "2026-07-16T16:38:59+00:00",
+  "updated_at": "2026-07-16T16:51:39+00:00",
   "market_status": "open",
+  "batch_refreshed": 0,
   "quotes": [
     {
       "symbol": "XLE",
-      "price": 57.07,
-      "change": 0.57,
-      "percent_change": 1.01
+      "price": 56.94,
+      "change": 0.44,
+      "percent_change": 0.78,
+      "asof": "2026-07-16T16:51:39+00:00"
     },
     {
       "symbol": "USO",
-      "price": 119.95,
-      "change": -1.43,
-      "percent_change": -1.18
+      "price": 119.86,
+      "change": -1.52,
+      "percent_change": -1.25,
+      "asof": "2026-07-16T16:51:39+00:00"
     },
     {
       "symbol": "UNG",
-      "price": 10.25,
-      "change": -0.3,
-      "percent_change": -2.84
+      "price": 10.26,
+      "change": -0.29,
+      "percent_change": -2.75,
+      "asof": "2026-07-16T16:51:39+00:00"
     },
     {
       "symbol": "XOM",
-      "price": 146.21,
-      "change": 1.7,
-      "percent_change": 1.18
+      "price": 145.97,
+      "change": 1.46,
+      "percent_change": 1.01,
+      "asof": "2026-07-16T16:51:39+00:00"
     },
     {
       "symbol": "CVX",
-      "price": 184.17,
-      "change": 2.57,
-      "percent_change": 1.42
+      "price": 183.76,
+      "change": 2.16,
+      "percent_change": 1.19,
+      "asof": "2026-07-16T16:51:39+00:00"
     },
     {
       "symbol": "COP",
-      "price": 112.44,
-      "change": 0.98,
-      "percent_change": 0.88
+      "price": 112.28,
+      "change": 0.82,
+      "percent_change": 0.74,
+      "asof": "2026-07-16T16:51:39+00:00"
     },
     {
       "symbol": "SLB",
-      "price": 47.14,
-      "change": -0.41,
-      "percent_change": -0.86
+      "price": 47.07,
+      "change": -0.48,
+      "percent_change": -1.01,
+      "asof": "2026-07-16T16:51:39+00:00"
     },
     {
       "symbol": "KMI",
-      "price": 32.53,
-      "change": 0.33,
-      "percent_change": 1.04
+      "price": 32.47,
+      "change": 0.26,
+      "percent_change": 0.82,
+      "asof": "2026-07-16T16:51:39+00:00"
     }
   ]
 }
