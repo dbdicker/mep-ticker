@@ -1,63 +1,63 @@
 {
-  "updated_at": "2026-07-16T16:53:02+00:00",
+  "updated_at": "2026-07-16T17:08:57+00:00",
   "market_status": "open",
-  "batch_refreshed": 1,
+  "batch_refreshed": 0,
   "quotes": [
     {
       "symbol": "XLE",
       "price": 56.94,
-      "change": 0.44,
-      "percent_change": 0.78,
-      "asof": "2026-07-16T16:51:39+00:00"
+      "change": 0.43,
+      "percent_change": 0.77,
+      "asof": "2026-07-16T17:08:57+00:00"
     },
     {
       "symbol": "USO",
-      "price": 119.86,
-      "change": -1.52,
-      "percent_change": -1.25,
-      "asof": "2026-07-16T16:51:39+00:00"
+      "price": 119.28,
+      "change": -2.1,
+      "percent_change": -1.73,
+      "asof": "2026-07-16T17:08:57+00:00"
     },
     {
       "symbol": "UNG",
-      "price": 10.26,
-      "change": -0.29,
-      "percent_change": -2.75,
-      "asof": "2026-07-16T16:51:39+00:00"
+      "price": 10.24,
+      "change": -0.31,
+      "percent_change": -2.89,
+      "asof": "2026-07-16T17:08:57+00:00"
     },
     {
       "symbol": "XOM",
-      "price": 145.97,
-      "change": 1.46,
-      "percent_change": 1.01,
-      "asof": "2026-07-16T16:51:39+00:00"
+      "price": 145.74,
+      "change": 1.23,
+      "percent_change": 0.85,
+      "asof": "2026-07-16T17:08:57+00:00"
     },
     {
       "symbol": "CVX",
-      "price": 183.76,
-      "change": 2.16,
-      "percent_change": 1.19,
-      "asof": "2026-07-16T16:51:39+00:00"
+      "price": 183.59,
+      "change": 1.99,
+      "percent_change": 1.1,
+      "asof": "2026-07-16T17:08:57+00:00"
     },
     {
       "symbol": "COP",
-      "price": 112.28,
-      "change": 0.82,
-      "percent_change": 0.74,
-      "asof": "2026-07-16T16:51:39+00:00"
+      "price": 112.12,
+      "change": 0.66,
+      "percent_change": 0.59,
+      "asof": "2026-07-16T17:08:57+00:00"
     },
     {
       "symbol": "SLB",
-      "price": 47.07,
-      "change": -0.48,
-      "percent_change": -1.01,
-      "asof": "2026-07-16T16:51:39+00:00"
+      "price": 47.16,
+      "change": -0.38,
+      "percent_change": -0.81,
+      "asof": "2026-07-16T17:08:57+00:00"
     },
     {
       "symbol": "KMI",
-      "price": 32.47,
-      "change": 0.26,
-      "percent_change": 0.82,
-      "asof": "2026-07-16T16:51:39+00:00"
+      "price": 32.53,
+      "change": 0.33,
+      "percent_change": 1.04,
+      "asof": "2026-07-16T17:08:57+00:00"
     },
     {
       "symbol": "FSLR",
