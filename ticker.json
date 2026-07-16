@@ -1,5 +1,54 @@
 {
-    "updated_at": null,
-    "market_status": "pending_first_run",
-    "quotes": []
+  "updated_at": "2026-07-16T16:11:01+00:00",
+  "market_status": "open",
+  "quotes": [
+    {
+      "symbol": "XLE",
+      "price": 57.2,
+      "change": 0.69,
+      "percent_change": 1.23
+    },
+    {
+      "symbol": "USO",
+      "price": 120.2,
+      "change": -1.18,
+      "percent_change": -0.97
+    },
+    {
+      "symbol": "UNG",
+      "price": 10.26,
+      "change": -0.29,
+      "percent_change": -2.75
+    },
+    {
+      "symbol": "XOM",
+      "price": 146.6,
+      "change": 2.09,
+      "percent_change": 1.45
+    },
+    {
+      "symbol": "CVX",
+      "price": 184.5,
+      "change": 2.9,
+      "percent_change": 1.6
+    },
+    {
+      "symbol": "COP",
+      "price": 112.56,
+      "change": 1.1,
+      "percent_change": 0.99
+    },
+    {
+      "symbol": "SLB",
+      "price": 47.26,
+      "change": -0.29,
+      "percent_change": -0.61
+    },
+    {
+      "symbol": "KMI",
+      "price": 32.55,
+      "change": 0.35,
+      "percent_change": 1.1
+    }
+  ]
 }
