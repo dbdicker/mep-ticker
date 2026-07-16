@@ -1,54 +1,54 @@
 {
-  "updated_at": "2026-07-16T16:11:01+00:00",
+  "updated_at": "2026-07-16T16:38:59+00:00",
   "market_status": "open",
   "quotes": [
     {
       "symbol": "XLE",
-      "price": 57.2,
-      "change": 0.69,
-      "percent_change": 1.23
+      "price": 57.07,
+      "change": 0.57,
+      "percent_change": 1.01
     },
     {
       "symbol": "USO",
-      "price": 120.2,
-      "change": -1.18,
-      "percent_change": -0.97
+      "price": 119.95,
+      "change": -1.43,
+      "percent_change": -1.18
     },
     {
       "symbol": "UNG",
-      "price": 10.26,
-      "change": -0.29,
-      "percent_change": -2.75
+      "price": 10.25,
+      "change": -0.3,
+      "percent_change": -2.84
     },
     {
       "symbol": "XOM",
-      "price": 146.6,
-      "change": 2.09,
-      "percent_change": 1.45
+      "price": 146.21,
+      "change": 1.7,
+      "percent_change": 1.18
     },
     {
       "symbol": "CVX",
-      "price": 184.5,
-      "change": 2.9,
-      "percent_change": 1.6
+      "price": 184.17,
+      "change": 2.57,
+      "percent_change": 1.42
     },
     {
       "symbol": "COP",
-      "price": 112.56,
-      "change": 1.1,
-      "percent_change": 0.99
+      "price": 112.44,
+      "change": 0.98,
+      "percent_change": 0.88
     },
     {
       "symbol": "SLB",
-      "price": 47.26,
-      "change": -0.29,
-      "percent_change": -0.61
+      "price": 47.14,
+      "change": -0.41,
+      "percent_change": -0.86
     },
     {
       "symbol": "KMI",
-      "price": 32.55,
-      "change": 0.35,
-      "percent_change": 1.1
+      "price": 32.53,
+      "change": 0.33,
+      "percent_change": 1.04
     }
   ]
 }
