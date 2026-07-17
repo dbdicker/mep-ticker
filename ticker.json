@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-17T14:39:10+00:00",
+  "updated_at": "2026-07-17T15:09:07+00:00",
   "market_status": "open",
-  "batch_refreshed": 0,
+  "batch_refreshed": 1,
   "quotes": [
     {
       "symbol": "XLE",
@@ -61,52 +61,52 @@
     },
     {
       "symbol": "FSLR",
-      "price": 209.77,
-      "change": -2.16,
-      "percent_change": -1.02,
-      "asof": "2026-07-17T14:09:08+00:00"
+      "price": 205.05,
+      "change": -6.88,
+      "percent_change": -3.25,
+      "asof": "2026-07-17T15:09:07+00:00"
     },
     {
       "symbol": "LNG",
-      "price": 263.05,
-      "change": 4.05,
-      "percent_change": 1.56,
-      "asof": "2026-07-17T14:09:08+00:00"
+      "price": 259.86,
+      "change": 0.86,
+      "percent_change": 0.33,
+      "asof": "2026-07-17T15:09:07+00:00"
     },
     {
       "symbol": "EE",
-      "price": 39.5,
-      "change": 0.03,
-      "percent_change": 0.08,
-      "asof": "2026-07-17T14:09:08+00:00"
+      "price": 39.23,
+      "change": -0.24,
+      "percent_change": -0.6,
+      "asof": "2026-07-17T15:09:07+00:00"
     },
     {
       "symbol": "RRC",
-      "price": 36.94,
-      "change": 0.71,
-      "percent_change": 1.96,
-      "asof": "2026-07-17T14:09:08+00:00"
+      "price": 36.33,
+      "change": 0.1,
+      "percent_change": 0.28,
+      "asof": "2026-07-17T15:09:07+00:00"
     },
     {
       "symbol": "EXE",
-      "price": 89.14,
-      "change": 0.96,
-      "percent_change": 1.09,
-      "asof": "2026-07-17T14:09:08+00:00"
+      "price": 88.03,
+      "change": -0.15,
+      "percent_change": -0.17,
+      "asof": "2026-07-17T15:09:07+00:00"
     },
     {
       "symbol": "SPY",
-      "price": 746.07,
-      "change": -4.65,
-      "percent_change": -0.62,
-      "asof": "2026-07-17T14:09:08+00:00"
+      "price": 744.45,
+      "change": -6.27,
+      "percent_change": -0.84,
+      "asof": "2026-07-17T15:09:07+00:00"
     },
     {
       "symbol": "BTC/USD",
-      "price": 63268.87,
-      "change": -561.33,
-      "percent_change": -0.88,
-      "asof": "2026-07-17T14:09:08+00:00"
+      "price": 63034.0,
+      "change": -796.2,
+      "percent_change": -1.25,
+      "asof": "2026-07-17T15:09:07+00:00"
     }
   ]
 }
