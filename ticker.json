@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-17T15:39:10+00:00",
+  "updated_at": "2026-07-17T16:09:04+00:00",
   "market_status": "open",
-  "batch_refreshed": 0,
+  "batch_refreshed": 1,
   "quotes": [
     {
       "symbol": "XLE",
@@ -61,52 +61,52 @@
     },
     {
       "symbol": "FSLR",
-      "price": 205.05,
-      "change": -6.88,
-      "percent_change": -3.25,
-      "asof": "2026-07-17T15:09:07+00:00"
+      "price": 210.62,
+      "change": -1.31,
+      "percent_change": -0.62,
+      "asof": "2026-07-17T16:09:04+00:00"
     },
     {
       "symbol": "LNG",
       "price": 259.86,
       "change": 0.86,
       "percent_change": 0.33,
-      "asof": "2026-07-17T15:09:07+00:00"
+      "asof": "2026-07-17T16:09:04+00:00"
     },
     {
       "symbol": "EE",
-      "price": 39.23,
-      "change": -0.24,
-      "percent_change": -0.6,
-      "asof": "2026-07-17T15:09:07+00:00"
+      "price": 39.0,
+      "change": -0.47,
+      "percent_change": -1.19,
+      "asof": "2026-07-17T16:09:04+00:00"
     },
     {
       "symbol": "RRC",
-      "price": 36.33,
-      "change": 0.1,
-      "percent_change": 0.28,
-      "asof": "2026-07-17T15:09:07+00:00"
+      "price": 36.38,
+      "change": 0.15,
+      "percent_change": 0.4,
+      "asof": "2026-07-17T16:09:04+00:00"
     },
     {
       "symbol": "EXE",
       "price": 88.03,
       "change": -0.15,
       "percent_change": -0.17,
-      "asof": "2026-07-17T15:09:07+00:00"
+      "asof": "2026-07-17T16:09:04+00:00"
     },
     {
       "symbol": "SPY",
-      "price": 744.45,
-      "change": -6.27,
-      "percent_change": -0.84,
-      "asof": "2026-07-17T15:09:07+00:00"
+      "price": 745.12,
+      "change": -5.6,
+      "percent_change": -0.75,
+      "asof": "2026-07-17T16:09:04+00:00"
     },
     {
       "symbol": "BTC/USD",
-      "price": 63034.0,
-      "change": -796.2,
-      "percent_change": -1.25,
-      "asof": "2026-07-17T15:09:07+00:00"
+      "price": 63394.0,
+      "change": -436.2,
+      "percent_change": -0.68,
+      "asof": "2026-07-17T16:09:04+00:00"
     }
   ]
 }
